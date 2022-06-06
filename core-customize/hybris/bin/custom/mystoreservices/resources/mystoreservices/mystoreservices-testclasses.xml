@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><mystoreservices><testclass>de.hybris.mystoreservices.jalo.MystoreservicesTest</testclass><testclass>de.hybris.mystoreservices.service.impl.DefaultMystoreservicesServiceIntegrationTest</testclass></mystoreservices></testclasses>
