@@ -16,7 +16,13 @@
                          
       
         
-        <!-- <requires-extension name="cms"/> -->
+        <requires-extension name="sapcustomerb2b"/>
+        <requires-extension name="acceleratorcms"/>
+        <requires-extension name="b2bcommerce"/>		
+        <requires-extension name="b2bacceleratorservices"/>
+        <requires-extension name="odata2services"/>
+        <requires-extension name="wishlist"/>
+        <requires-extension name="sapinvoiceaddon"/>
                          
       
 
@@ -24,8 +30,6 @@
         
         <coremodule generated="true" manager="de.hyris.mystorecore.jalo.MystorecoreManager" packageroot="de.hyris.mystorecore"/>
                       
-        
-        <webmodule jspcompile="false" webroot="/mystorecore"/>
                 					
 	
         
