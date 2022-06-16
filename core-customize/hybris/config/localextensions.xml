@@ -129,11 +129,14 @@
   <extension name='sapcustomerb2bbackoffice' /> 
   <extension name='sapinvoiceaddon' />
 
-  <extension name='mystorebackoffice' />
-  <extension name='mystorefacades' />
-  <extension name='mystoreocc' />
-  <extension name='mystoreservices' />
-  <extension name='mystorecore' />
+  <extension name='vivocore' />
+  <extension name='vivobackoffice' />
+  <extension name='vivofacades' />
+  <extension name='vivofulfilmentprocess' />
+  <extension name='vivoinitialdata' />
+  <extension name='vivotest'/>
+  <extension name='vivoservices'/>
+  <extension name='vivoocc' />
     
     
   </extensions>
