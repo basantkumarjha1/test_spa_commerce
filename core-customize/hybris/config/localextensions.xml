@@ -135,7 +135,7 @@
   <extension name='vivofulfilmentprocess' />
   <extension name='vivoinitialdata' />
   <extension name='vivotest'/>
-  <extension name='vivoservices'/>
+  <!--<extension name='vivoservices'/>-->
   <extension name='vivoocc' />
     
     
