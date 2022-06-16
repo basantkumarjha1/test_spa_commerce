@@ -1,8 +1,8 @@
 {
     "applications": [
         {
-            "name": "mystore",
-            "path": "mystore"
+            "name": "vivostore",
+            "path": "vivostore"
         }
     ],
     "nodeVersion": "14"
