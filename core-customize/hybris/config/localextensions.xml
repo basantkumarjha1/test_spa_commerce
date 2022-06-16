@@ -128,6 +128,7 @@
   <extension name='sapmodelbackoffice' />
   <extension name='sapcustomerb2bbackoffice' /> 
   <extension name='sapinvoiceaddon' />
+  <extension name='yacceleratorstorefront' />
 
   <extension name='vivocore' />
   <extension name='vivobackoffice' />
