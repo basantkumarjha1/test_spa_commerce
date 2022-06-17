@@ -11,13 +11,15 @@ import { defaultCmsContentProviders, layoutConfig, mediaConfig } from "@spartacu
   providers: [provideConfig(layoutConfig), provideConfig(mediaConfig), ...defaultCmsContentProviders, provideConfig(<OccConfig>{
     backend: {
       occ: {
-        baseUrl: 'https://localhost:9002',
+        baseUrl: 'https://jsapps.cy9b5jy919-vivoenerg1-d1-public.model-t.cc.commerce.ondemand.com:8443',
+        prefix: '/occ/v2',
       }
     },
   }), provideConfig(<SiteContextConfig>{
     context: {
-      currency: ['USD'],
+      currency: ['USD', 'GBP'],
       language: ['en'],
+      baseSite: ['powertools-spa'],
     },
   }), provideConfig(<I18nConfig>{
     i18n: {
