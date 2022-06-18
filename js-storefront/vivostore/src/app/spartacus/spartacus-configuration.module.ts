@@ -20,6 +20,7 @@ import { defaultCmsContentProviders, layoutConfig, mediaConfig } from "@spartacu
       currency: ['USD', 'GBP'],
       language: ['en'],
       baseSite: ['powertools-spa'],
+      urlParameters: ['baseSite', 'language', 'currency'],
     },
   }), provideConfig(<I18nConfig>{
     i18n: {
