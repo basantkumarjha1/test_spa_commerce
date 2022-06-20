@@ -11,7 +11,7 @@ import { defaultCmsContentProviders, layoutConfig, mediaConfig } from "@spartacu
   providers: [provideConfig(layoutConfig), provideConfig(mediaConfig), ...defaultCmsContentProviders, provideConfig(<OccConfig>{
     backend: {
       occ: {
-        baseUrl: 'https://jsapps.cy9b5jy919-vivoenerg1-d1-public.model-t.cc.commerce.ondemand.com:8443',
+        baseUrl: 'https://api.cy9b5jy919-vivoenerg1-d1-public.model-t.cc.commerce.ondemand.com',
         prefix: '/occ/v2',
       }
     },
